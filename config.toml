@@ -1,0 +1,88 @@
+baseURL = 'https://discipleship28go.com/'
+languageCode = 'en-us'
+title = 'Discipleship28GO!'
+
+
+[menu]
+[[menu.main]]
+  pageRef= "/"
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  pageRef= "about" 
+  identifier = "About us" 
+  name = 'About'
+  url = '#about'
+  weight = 2
+
+[[menu.main]]
+  pageRef= "services" 
+  identifier = "Services" 
+  name = 'Services'
+  url = '#services'
+  weight = 3
+
+  
+[[menu.main]]
+  pageRef= "portfolio" 
+  identifier = "portfolio" 
+  name = 'Portfolio'
+  url = '#portfolio'
+  weight = 4
+
+  
+[[menu.main]]
+  pageRef= "team" 
+  identifier = "team" 
+  name = 'Team'
+  url = '#team'
+  weight = 5
+
+
+[[menu.main]]
+  pageRef= "dropdown" 
+  identifier = "dropdown" 
+  name = 'Dropdown'
+  url = '#'
+  weight = 6
+
+[[menu.main]]
+  pageRef= "dropdown1" 
+  identifier = "dropdown1" 
+  name = 'Drop Down 1'
+  url = '#'
+  weight = 7
+  parent = "dropdown"
+
+[[menu.main]]
+  pageRef= "dropdown2" 
+  identifier = "dropdown3" 
+  name = 'Drop Down 2'
+  url = '#'
+  weight = 8
+  parent = "dropdown"
+
+[[menu.main]]
+  pageRef= "dropdown3" 
+  identifier = "dropdown3" 
+  name = 'Drop Down 3'
+  url = '#'
+  weight = 9
+  parent = "dropdown"
+
+[[menu.main]]
+  pageRef= "dropdown4" 
+  identifier = "dropdown4" 
+  name = 'Drop Down 4'
+  url = '#'
+  weight = 10
+  parent = "dropdown"
+
+[[menu.main]]
+  pageRef= "contact" 
+  identifier = "contact" 
+  name = 'Contact'
+  url = '#'
+  weight = 12
