@@ -13,4 +13,32 @@ hero_section:
     button_2:
       name: Watch Video
       url: https://www.youtube.com/watch?si=nM9JZ-V-ncwRlHIB&v=ruFYmCBvecU&feature=youtu.be
+
+team:
+  title: Team
+  sub_title: Check our Team
+  members:
+    - image: /assets/img/team/team-1.jpg
+      name: Walter White
+      title: Chief Executive Officer
+      fb: /
+      ig: /
+      x: /
+      lndn: /
+
+    - image: /assets/img/team/team-2.jpg
+      name: Sarah Jhonson
+      title: Product Manager
+      fb: /
+      ig: /
+      x: /
+      lndn: /
+
+    - image: /assets/img/team/team-3.jpg
+      name: William Anderson
+      title: CTO
+      fb: /
+      ig: /
+      x: /
+      lndn: /
 ---

@@ -84,5 +84,5 @@ title = 'Discipleship28GO!'
   pageRef= "contact" 
   identifier = "contact" 
   name = 'Contact'
-  url = '#'
+  url = '#contact'
   weight = 12
